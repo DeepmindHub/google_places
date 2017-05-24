@@ -5,7 +5,7 @@ import pandas as pd
 
 base_url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 # key = 'AIzaSyAdDHu8-X-20qcuOd4Pe_5dAMSTSNkUeB0'
-key = 'AIzaSyBfbwmJ8l316yK8AmRvWHIVrWp1wm8YepM'
+key = '##############'
 
 
 def main():
