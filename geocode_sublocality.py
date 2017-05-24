@@ -65,6 +65,6 @@ def encode(address):
         print e
         exit(-1)
 
-geolocator = GoogleV3('AIzaSyAdDHu8-X-20qcuOd4Pe_5dAMSTSNkUeB0')
+geolocator = GoogleV3('############')
 if __name__ == "__main__":
     main()
